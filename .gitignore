@@ -34,3 +34,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# git-template
+git-commit-template.txt
+
+# prettier 
+.prettierrc
+
+# eslint
+.eslintrc.json
+
+# package
+package-lock.json 
+package.json
+
+# yarn
+yarn.lock
